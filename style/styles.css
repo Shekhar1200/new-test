@@ -1,0 +1,31 @@
+div {
+    color: black;
+}
+
+#title {
+    background-color: red;
+}
+
+button {
+    background-color: yellow;
+    color: whitesmoke;
+    border: none;
+    padding: 20px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    margin: 4px 4px;
+    cursor: pointer;
+}
+#odd {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
+.footer{
+    background-color: black;
+    color: white;
+    padding: 10px;
+    text-align: center;
