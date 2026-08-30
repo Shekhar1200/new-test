@@ -1,9 +1,41 @@
-.black{
-    color:blue;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;}
+
      
-    #title{
+    h1{
     background-color: red;  
-    color:silver;    
+    color:white;    
     }
-             
+    
+ .button{
+    text-align: center;
+    margin: 40px;
+}
+.download-button{
+    
+    
+   background: green;
+  color: white;
+  font-weight: bold;
+  font-size: 40px;
+  border-radius: 20px;
+ cursor: pointer;
+}
+
+button:hover{
+    background-color: blue;
+    color: white;
+}     
+body{
+    background-image:url(../images/back1.webp);
+    min-height: 100%;
+    background-size: cover;
+    background-position:center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+p{
+    
+    color:black ;
+   text-align: center;
+   font-size: 25px ;
+   font-family: 'Times New Roman', Times, serif; 
+}
